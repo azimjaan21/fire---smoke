@@ -1,0 +1,9 @@
+
+train: C:\Users\dalab\Desktop\azimjaan21\SafeFactory System\Datasets\fire_smoke\train\images
+val: C:\Users\dalab\Desktop\azimjaan21\SafeFactory System\Datasets\fire_smoke\val\images
+test: C:\Users\dalab\Desktop\azimjaan21\SafeFactory System\Datasets\fire_smoke\test\images
+
+nc: 2
+
+names: ['fire', 'smoke']
+
